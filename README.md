@@ -22,10 +22,6 @@ The project covers **data cleaning**, **descriptive statistics**, and **visualiz
 ```plaintext
 Loan_Approval_Analysis.ipynb   # Main notebook (cleaning, EDA, visuals, insights)
 Loan_Approval_Dataset.csv      # dataset to obtain it
-images/                         # Figures used in the README
-  ├── target_distribution.png
-  ├── feature_distribution_income.png
-  └── approval_rate_by_category.png
 requirements.txt                # Project dependencies
 README.md                       # Project documentation
 ```
