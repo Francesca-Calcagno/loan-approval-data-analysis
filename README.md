@@ -61,7 +61,7 @@ Open Loan_Approval_Analysis.ipynb and run the cells.
 **Francesca Calcagno**  
 M.Sc. Data Science @ University of Catania  
 
-🔗 [LinkedIn](https://linkedin.com/in/francesca-calcagno-9554a5381/)  
-💻 [GitHub](https://github.com/Francesca-Calcagno)  
+[LinkedIn](https://linkedin.com/in/francesca-calcagno-9554a5381/)  
+[GitHub](https://github.com/Francesca-Calcagno)  
 
 
